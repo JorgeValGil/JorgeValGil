@@ -5,10 +5,11 @@
 ![follow](https://img.shields.io/github/followers/JorgeValGil?label=Follow&style=social "follow")
 
 - 🔭 I’m currently working on web development.
-- 🌱 I’m currently learning Java and Python.  
+ 
 ### Languagues and tools:
 <p>
 <img src="img/android-original.svg" alt="android" width="40" height="40"/>
+<img src="img/arduino-original.svg" alt="android" width="40" height="40"/>
 <img src="img/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 <img src="img/composer-original.svg" alt="composer" width="40" height="40"/>
 <img src="img/css3-original.svg" alt="css3" width="40" height="40"/>
