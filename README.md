@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Jorge Val Gil
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-val-gil)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JorgeValGil.JorgeValGil "visitors")
 ![follow](https://img.shields.io/github/followers/JorgeValGil?label=Follow&style=social "follow")
 
 - 🔭 I’m currently working on web development.
@@ -33,7 +32,5 @@
 <img src="img/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="img/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeValGil&count_private=true&theme=dark "GitHub Stats")  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeValGil&layout=compact&theme=dark "Most Used Languages")
