@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Jorge Val Gil
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jorge-val-gil)
-![follow](https://img.shields.io/github/followers/JorgeValGil?label=Follow&style=social "follow")
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-val-gil)
 
 - 🔭 I’m currently working on web development.
  
